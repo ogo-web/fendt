@@ -1,0 +1,113 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: #2E5C13 ;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	margin: 320px;
+	font-size: 48px;
+	background: #2E5C13;
+}
+#startseite {
+	background: url("images/Fendt2.jpg");
+	height: 420px;
+}
+
+#startseite div {
+	background: white;
+	width: 100%;
+	height: 100px;
+	filter: alpha(opacity=42,515);
+	padding-top: 25px;
+	font-weight: bold;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+#startseite div p {
+	color: black;
+	text-align: center;
+}
+
+.imageBox {
+	display: inline-block;
+	width: 100%;
+}
+
+.imageBox  p{
+}
+
+.imageBox a{
+	color: none; 
+}
+
+.imageBox img{
+  width: 300px;
+  height: auto;
+  margin: 30px 0 0 0;
+  margin-right: 20px;
+  float: left;
+}
+
+.text {
+padding-top: 40px;
+width: 400px;
+height: 150px;
+float: right;
+}
+
+h2{
+	color: #2E5C13;
+	margin-top:25px;
+}
+
+body {
+	background-color: #282936;
+	color: #ffffff;
+	font-family: sans-serif;
+	line-height: 24px;
+}
+
+#navi  li{
+	display: inline;
+	padding-right: 10%;
+	font-weight: bold;
+}
+
+a {
+	color: #282936;
+}
+
+a:hover {
+	color:white;
+}
+
+#fendtlink{
+	color: #2E5C13;
+}
+
+#fendtlink:hover{
+	color: #ffffff;
+}
+
+
+#navi{
+	background-color: #2E5C13;
+	height: 35px;
+	font-size: 20px;
+}
+
+
+#einruecken_links{
+	padding-left: 15%;
+}
