@@ -19,7 +19,7 @@ h1 {
 	background: #2E5C13;
 }
 #startseite {
-	background: url("images/Fendt2.jpg");
+	background: url("images/fendt2.jpg");
 	height: 420px;
 }
 
@@ -48,7 +48,7 @@ h1 {
 }
 
 .imageBox a{
-	color: none; 
+	color: none;
 }
 
 .imageBox img{
